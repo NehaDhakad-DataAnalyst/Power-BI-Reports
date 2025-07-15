@@ -1,7 +1,7 @@
 # Power-BI-Reports
 
 🧠 End-to-End Power BI Project – Business Dashboard
-This repository demonstrates a complete end-to-end business intelligence project using Power BI, SQL, and data transformation techniques. It showcases how raw data from multiple sources is cleaned, modeled, and visualized to deliver actionable business insights.
+   This repository demonstrates a complete end-to-end business intelligence project using Power BI, SQL, and data transformation techniques. It showcases how raw data from multiple sources is cleaned, modeled,   and visualized to deliver actionable business insights.
 
 📌 Project Overview
 This project involves the following stages:
